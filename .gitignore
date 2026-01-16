@@ -1,0 +1,5 @@
+.env
+predictions/
+__pycache__/
+*.pyc
+data/
